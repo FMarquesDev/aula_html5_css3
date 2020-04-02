@@ -1,0 +1,46 @@
+
+body {
+    background: rgb(253, 253, 36);
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+
+header {
+    margin-left:  5px;
+}
+
+h1 {
+    color: blue;
+    font-family: arial;
+}
+
+h2 {
+    color: blue;
+    font-family: arial;
+}
+
+h3 {
+    color: blue;
+    font-family: arial;
+}
+
+p{
+    font-size: 28px;
+}
+
+footer {
+    margin-bottom: 30px;
+}
+
+.img_padrao {
+    margin-bottom: 5px;
+    width: 350px;
+    margin-top: 5px;
+}
+
+.img_logo {
+    margin-bottom: 1px;
+    margin-top: 1px;
+    width: 80px;
+}
